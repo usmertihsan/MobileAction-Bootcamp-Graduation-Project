@@ -6,7 +6,7 @@ The required data will be gathered via the https://openweathermap.org/api.
 Data on air pollution by the names of the cities and the range of dates
 a Restfull in which the information will be read and saved to the database.
 Spring Boot Framework will be applied to the application.
-
+(Detailed project description provided in pdf format, for more detailed explanation)
 ## Technologies
 Project is created with:
 * Java 11
