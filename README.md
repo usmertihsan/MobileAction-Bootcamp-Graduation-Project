@@ -70,7 +70,7 @@ The date range was discovered to be wrong for entries made outside of these date
 
 <img width="607" alt="DB1" src="https://user-images.githubusercontent.com/18599278/177320971-4a26ec34-082c-4079-ac88-426ed86b6e9d.png">
 
-#### POLLUTION INFORMATIN TABLE ( JUST A FEW INFORMATION EXAMPLES ON THE SCREENSHOT) :mag:
+#### POLLUTION INFORMATION TABLE ( JUST A FEW INFORMATION EXAMPLES ON THE SCREENSHOT) :mag:
 
 
 <img width="779" alt="db2" src="https://user-images.githubusercontent.com/18599278/177321041-bbd818d5-7ef2-41ff-8b0d-f82faffb03f8.png">
